@@ -1,0 +1,174 @@
+[
+  {
+    "slug": "invoice-approval-automation",
+    "title": "Invoice Approval Automation",
+    "description": "3-way match, duplicate detection, GL coding, and auto-approval under $5K. Escalates to finance team for exceptions.",
+    "author": "PAI Studio Team",
+    "tags": [
+      "Finance",
+      "AP",
+      "Automation"
+    ],
+    "department": "Finance",
+    "downloads": 1240,
+    "autonomyLevel": 2,
+    "nodeCount": 8,
+    "workflowType": "future_state",
+    "license": "MIT",
+    "version": "1.2.0",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "slug": "employee-onboarding-automation",
+    "title": "Employee Onboarding Automation",
+    "description": "End-to-end onboarding: account provisioning, equipment requests, buddy assignment, and 30/60/90 day check-ins.",
+    "author": "PAI Studio Team",
+    "tags": [
+      "HR",
+      "Onboarding",
+      "Automation"
+    ],
+    "department": "HR",
+    "downloads": 980,
+    "autonomyLevel": 2,
+    "nodeCount": 10,
+    "workflowType": "future_state",
+    "license": "MIT",
+    "version": "1.0.0",
+    "createdAt": "2025-11-05T00:00:00Z"
+  },
+  {
+    "slug": "contract-review-automation",
+    "title": "Contract Review & Redline",
+    "description": "AI-powered contract analysis with risk flagging, clause extraction, redline generation, and approval routing.",
+    "author": "PAI Studio Team",
+    "tags": [
+      "Legal",
+      "Contracts",
+      "AI"
+    ],
+    "department": "Legal",
+    "downloads": 720,
+    "autonomyLevel": 1,
+    "nodeCount": 9,
+    "workflowType": "future_state",
+    "license": "MIT",
+    "version": "1.1.0",
+    "createdAt": "2025-11-10T00:00:00Z"
+  },
+  {
+    "slug": "it-support-triage",
+    "title": "IT Support Triage & Resolution",
+    "description": "Auto-categorise tickets, run known-fix playbooks, escalate to L2 only when needed. Integrates with ServiceNow and Jira.",
+    "author": "PAI Studio Team",
+    "tags": [
+      "IT",
+      "Support",
+      "ITSM"
+    ],
+    "department": "IT",
+    "downloads": 650,
+    "autonomyLevel": 2,
+    "nodeCount": 9,
+    "workflowType": "future_state",
+    "license": "MIT",
+    "version": "1.0.0",
+    "createdAt": "2025-11-12T00:00:00Z"
+  },
+  {
+    "slug": "sales-quote-automation",
+    "title": "Sales Quote Generation",
+    "description": "Qualify opportunity, pull pricing, generate proposal deck, run approval for non-standard discounts, and send to prospect.",
+    "author": "PAI Studio Team",
+    "tags": [
+      "Sales",
+      "Revenue",
+      "CRM"
+    ],
+    "department": "Sales",
+    "downloads": 880,
+    "autonomyLevel": 2,
+    "nodeCount": 10,
+    "workflowType": "future_state",
+    "license": "MIT",
+    "version": "1.0.0",
+    "createdAt": "2025-11-15T00:00:00Z"
+  },
+  {
+    "slug": "pdf-to-obsidian",
+    "title": "PDF \u2192 Obsidian Knowledge Base",
+    "description": "Extract key insights, decisions, and action items from PDFs. Auto-tag and route to the right Obsidian vault folder.",
+    "author": "PAI Studio Team",
+    "tags": [
+      "Knowledge",
+      "Obsidian",
+      "Research"
+    ],
+    "department": "Knowledge",
+    "downloads": 1560,
+    "autonomyLevel": 3,
+    "nodeCount": 7,
+    "workflowType": "future_state",
+    "license": "MIT",
+    "version": "2.0.0",
+    "createdAt": "2025-11-20T00:00:00Z"
+  },
+  {
+    "slug": "vendor-onboarding",
+    "title": "Vendor Onboarding & Compliance",
+    "description": "Collect W-9/W-8, run sanctions screening, verify insurance certificates, set up in ERP, and notify procurement team.",
+    "author": "finops-wizard",
+    "tags": [
+      "Finance",
+      "Compliance",
+      "Procurement"
+    ],
+    "department": "Finance",
+    "downloads": 310,
+    "autonomyLevel": 1,
+    "nodeCount": 11,
+    "workflowType": "future_state",
+    "license": "MIT",
+    "version": "1.0.0",
+    "createdAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "slug": "content-publishing-pipeline",
+    "title": "Content Publishing Pipeline",
+    "description": "Draft \u2192 SEO review \u2192 design assets \u2192 multi-channel publish (blog, LinkedIn, newsletter). Auto-schedules based on editorial calendar.",
+    "author": "marketing-mcp",
+    "tags": [
+      "Marketing",
+      "Content",
+      "Publishing"
+    ],
+    "department": "Marketing",
+    "downloads": 445,
+    "autonomyLevel": 2,
+    "nodeCount": 8,
+    "workflowType": "future_state",
+    "license": "MIT",
+    "version": "1.0.0",
+    "createdAt": "2025-12-10T00:00:00Z"
+  },
+  {
+    "slug": "email-triage-routing",
+    "title": "Email Triage & Response Routing",
+    "description": "AI classifies every inbound email, drafts on-brand replies, logs CRM tickets, auto-sends routine responses, escalates complaints and high-value inquiries to humans. Includes daily SLA digest.",
+    "author": "PAI Studio Team",
+    "tags": [
+      "Operations",
+      "Email",
+      "CRM",
+      "Automation"
+    ],
+    "department": "Operations",
+    "downloads": 1820,
+    "autonomyLevel": 2,
+    "nodeCount": 13,
+    "workflowType": "future_state",
+    "license": "MIT",
+    "version": "1.0.0",
+    "createdAt": "2026-01-15T00:00:00Z"
+  }
+]
